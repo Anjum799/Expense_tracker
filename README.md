@@ -57,3 +57,18 @@ The platform allows users to manage their personal finances by categorizing tran
 - reCAPTCHA to protect forms
 
 - Django CSRF protection and secure session handling
+
+## 🛠 Technologies Used
+Backend: Django (Python)
+
+Frontend: HTML5, CSS3, Bootstrap
+
+Database: SQLite3
+
+Charting Library: Chart.js (for Pie, Bar, and Line graphs)
+
+Security: Django Authentication, Google reCAPTCHA
+
+Template Engine: Django Templates
+
+ 
