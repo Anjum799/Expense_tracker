@@ -71,4 +71,30 @@ Security: Django Authentication, Google reCAPTCHA
 
 Template Engine: Django Templates
 
+## 🖥️ UI Overview
+- Login/Register Pages:
+
+  
+![Image](https://github.com/user-attachments/assets/c9397a2a-5bbe-44c8-94b9-aa0f01d863dd)
+
+ Clean design with Google reCAPTCHA for secure access
+- Home page:
+  
+![Image](https://github.com/user-attachments/assets/c386271b-edf4-4a08-a586-3b5ef68e6392)
+![Image](https://github.com/user-attachments/assets/4cf98547-65c9-4193-b0b3-fc4bbb789e96)
+
+- Dashboard Page:
+  
+![Image](https://github.com/user-attachments/assets/5ff5753b-c3d8-4c9b-af08-ab7efa75f3be)
+![Image](https://github.com/user-attachments/assets/30b215bf-bb3e-49bf-b9b5-caca3f7beac2)
+
+- Display in Dashboard page:-
+  
+  Pie Chart – Category-wise breakdown
+
+  Bar Graph – Monthly income vs. expense
+
+  Line Graph – Time-based financial trend
+  
+
  
