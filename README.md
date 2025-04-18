@@ -95,6 +95,35 @@ Template Engine: Django Templates
   Bar Graph – Monthly income vs. expense
 
   Line Graph – Time-based financial trend
+
+## 📥 Setup Instructions
+
+1.Clone the Repository:
+- git clone https://github.com/Anjum799/Expense_tracker.git
+- cd Expense_tracker
+  
+2.Install Required Packages:
+- pip install -r requirements.txt
+  
+3.Configure reCAPTCHA
+
+  a.  Get your keys from Google reCAPTCHA
+ 
+  b.  Add them to settings.py:
+ 
+- RECAPTCHA_PUBLIC_KEY = 'your_site_key'
+- RECAPTCHA_PRIVATE_KEY = 'your_secret_key'
+  
+4.Apply Migrations:
+- python manage.py makemigrations
+- python manage.py migrate
+
+5.Run the Server:
+- python manage.py runserver
+
+
+
+
   
 
  
