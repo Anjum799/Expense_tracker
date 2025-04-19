@@ -121,6 +121,11 @@ Template Engine: Django Templates
 5.Run the Server:
 - python manage.py runserver
 
+6.Access the App:
+- Visit: http://127.0.0.1:8000/ in your browser.
+
+
+
 
 
 
