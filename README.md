@@ -124,6 +124,20 @@ Template Engine: Django Templates
 6.Access the App:
 - Visit: http://127.0.0.1:8000/ in your browser.
 
+## 📁 Folder Structure Highlights
+
+- users/: Handles registration/login and reCAPTCHA
+
+- tracker/: Expense tracking, dashboard logic, chart rendering
+
+- templates/: HTML files including dashboard, forms, and charts
+
+- static/: CSS, JavaScript (Chart.js for graphs)
+
+- settings.py: Project settings including security keys and installed apps
+
+- db.sqlite3: SQLite database file
+
 
 
 
